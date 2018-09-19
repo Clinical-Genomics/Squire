@@ -4,14 +4,14 @@ about: Describe this issue template's purpose here.
 
 ---
 
-Contact person:
+**Contact person:**
 
-Problem description:
+**Problem description:**
 
-Solution suggested:
+**Solution suggested:**
 
-Questions:
-Q1:
-A1:
+**Questions:**
+**Q1:**
+**A1:**
 
-Estimated:
+**Estimated:**
