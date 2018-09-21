@@ -11,6 +11,9 @@ MIP picard CollectHsMetrics
 MIP picard CollectInsertSizeMetrics
 MIP picard CollectAlignmentSummaryMetrics
 MIP picard MarkDuplicates
+MIP peddy peddy
+MIP chanjo sexcheck
+MIP gatk varianteval
 microSALT quast report
 microSALT quast kmers_report
 microSALT quast reads_report
