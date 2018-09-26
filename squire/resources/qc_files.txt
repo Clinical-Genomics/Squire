@@ -14,8 +14,4 @@ MIP picard MarkDuplicates
 MIP peddy peddy
 MIP chanjo sexcheck
 MIP gatk varianteval
-microSALT quast report
-microSALT quast kmers_report
-microSALT quast reads_report
-microSALT quast unaligned_report
-microSALT quast misassemblies_report
+microSALT quast assembly_report
